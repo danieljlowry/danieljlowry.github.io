@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
+<h1>Welcome to Daniel J. Lowry's GitHub Page</h1>
 <p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
